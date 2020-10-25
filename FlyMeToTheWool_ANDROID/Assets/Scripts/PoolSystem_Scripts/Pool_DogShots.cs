@@ -1,0 +1,1 @@
+﻿public class Pool_DogShots : Generic_PoolObject<Poolable_DogShot> { }

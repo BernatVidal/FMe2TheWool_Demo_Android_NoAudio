@@ -1,0 +1,1 @@
+﻿public class Pool_SmallDrones : Generic_PoolObject<Poolable_SmallDrone> { }
