@@ -6,6 +6,8 @@ About:
 
 Small demo and created in Unity from scratch (all resources included) within 6 days for Outfit7 ExpTest JAM on July 2020. 
 
+All codes and resources (sprites, music, sounds, particles, UI, etc.. ) are done from scratch specially for this game, only the background image are from outside sources.
+
 Audio resources are removed cause will be reused for commercial uses in the future.
 
 You can check the gameplay here:
