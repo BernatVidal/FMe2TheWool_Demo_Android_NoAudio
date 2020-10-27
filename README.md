@@ -15,7 +15,11 @@ You can check the gameplay here:
 (youtube link not provided yet)
 /////////////////////////////////////////////////////////////
 
-Builds for Android and PC availables at /Builds dir
+Build .apk for Android available at /Builds dir
+
+PC build available at:
+
+https://drive.google.com/file/d/1oFL8qEHqXKEsDw4BuDkf0iKvafubQYJV/view?usp=sharing
 
 
 /////////////////////////////////////////////////////////////
