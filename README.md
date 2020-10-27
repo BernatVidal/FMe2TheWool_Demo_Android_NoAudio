@@ -13,6 +13,9 @@ Audio resources are removed cause will be reused for commercial uses in the futu
 You can check the gameplay here:
 
 (youtube link not provided yet)
+/////////////////////////////////////////////////////////////
+
+Builds for Android and PC availables at /Builds dir
 
 
 /////////////////////////////////////////////////////////////
